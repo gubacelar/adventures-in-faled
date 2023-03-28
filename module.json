@@ -9,5 +9,5 @@
   "scripts": [
     "hooks/delete-item-long-rest.js"
   ],
-  "download": "https://github.com/gubacelar/adventures-in-faled/archive/refs/tags/0.0.1.zip"
+  "download": "https://github.com/gubacelar/adventures-in-faled/archive/refs/tags/0.0.2.zip"
 }
